@@ -3,7 +3,7 @@
 
 **Objetivo General:** Aprender a integrar servicios de AWS como DynamoDB, Lambda y API Gateway en una arquitectura serverless que simula una API de usuarios. Se desarrollará una función Lambda conectada a DynamoDB, expuesta mediante rutas en API Gateway y se validará su funcionamiento utilizando los métodos GET y POST desde el navegador y CloudShell
 
-![Arquitectura AWS](https://github.com/iscatalan/ServerlessLab/blob/main/Arquitectura%20laboratorio.png)
+![Arquitectura AWS](https://github.com/iscatalan/ServerlessLab/blob/main/Arquitectura%20Serverless1.png)
 
 
  
